@@ -1,4 +1,5 @@
-# Bin2Dec
+# Bin2Dec [![wakatime](https://wakatime.com/badge/user/018e18e4-ea39-46c6-b3da-dcbf7a45a702/project/14f1685f-76df-4208-9e9c-baa7046dc457.svg)](https://wakatime.com/badge/user/018e18e4-ea39-46c6-b3da-dcbf7a45a702/project/14f1685f-76df-4208-9e9c-baa7046dc457)
+## Description
 Simple web app made in Flask inspired by [App Ideas - Bin2Dec](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
  ## User Stories
  - [x] User can enter up to 8 binary digits in one input field
