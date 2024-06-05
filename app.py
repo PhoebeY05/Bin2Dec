@@ -18,6 +18,6 @@ def home():
             decimal = 0
             for i in range(len(binary)):
                 decimal += int(binary[i])*(2**(len(binary)-i-1))
-            return render_template("home.html", decimal=str(decimal))
+            return render_template("home.html", decimal=str(decimal), binary=binary)
     else:
-        return render_template("home.html", decimal="")
+        return render_template("home.html", decimal="", binary="")
