@@ -1,4 +1,2 @@
+Flask==3.0.3
 gunicorn==22.0.0
-openvino==2024.0.0
-packaging==24.0
-six==1.16.0
